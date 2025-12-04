@@ -7,3 +7,5 @@ Automatic height control for a Spacetronik SPE-223HB desk using an Arduino Nano,
 - Arduino Nano
 - DS3231 RTC
 - 2-channel 5V low-level relay module (10A)
+
+![Arduino wiring](wiring.jpg)
